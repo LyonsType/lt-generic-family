@@ -10,6 +10,7 @@ Its minimalist construction allows the typeface to seamlessly adapt between prof
 To extend its versatility, the sans cut is accompanied by two companion styles:
 
 **LT Generic Serif** — a refined serif counterpart designed for long-form reading and classic typographic contrast.
+
 **LT Generic Typewriter** — a monospace companion that introduces a mechanical, retro-functional character ideal for coding aesthetics, technical layouts, and experimental design work.
 
 Overall, the LT Generic family forms a cohesive superfamily that balances modern simplicity with practical functionality.
